@@ -1,0 +1,10 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="24" fill="#2D8CF0"/>
+  <rect x="24" y="36" width="80" height="56" rx="10" fill="#fff" stroke="#1A5FB4" stroke-width="4"/>
+  <!-- ヘッダー帯 -->
+  <rect x="24" y="28" width="80" height="20" rx="6" fill="#1A5FB4"/>
+  <text x="64" y="43" text-anchor="middle" font-size="14" font-family="Arial, Helvetica, sans-serif" fill="#fff" font-weight="bold">HEADER</text>
+  <text x="64" y="80" text-anchor="middle" font-size="48" font-family="Arial, Helvetica, sans-serif" fill="#2D8CF0" font-weight="bold">1</text>
+  <rect x="40" y="90" width="48" height="12" rx="4" fill="#2D8CF0"/>
+  <polygon points="104,64 120,64 112,72" fill="#2D8CF0"/>
+</svg>

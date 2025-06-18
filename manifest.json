@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "OneHeader Shot! - 1リクエスト1ヘッダー追加",
+  "version": "1.0",
+  "description": "リクエストを投げる時に1つだけ任意のヘッダーを追加できる超シンプル拡張機能。APIテストや一時的な認証・デバッグに最適！",
+  "permissions": [
+    "storage",
+    "declarativeNetRequest"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "128": "icon128.png"
+  }
+}
